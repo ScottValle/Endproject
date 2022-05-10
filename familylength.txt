@@ -1,0 +1,13 @@
+datas	length	totallength
+Crevaviridae-Intestiviridae-Steigviridae-Suoliviridae	526	526
+Crevaviridae-Intestiviridae	299	526
+Intestiviridae-Steigviridae-Suoliviridae	423	526
+Steigviridae-Suoliviridae	227	526
+Crevaviridae-Intestiviridae-Steigviridae	340	526
+Intestiviridae-Suoliviridae	382	526
+Intestiviridae-Steigviridae	237	526
+Crevaviridae-Steigviridae	144	526
+Crevaviridae	103	526
+Intestiviridae	196	526
+Steigviridae	41	526
+Suoliviridae	186	526

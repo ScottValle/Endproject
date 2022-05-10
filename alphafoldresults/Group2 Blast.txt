@@ -1,0 +1,7 @@
+"Blast"	"query"    "sequence"      "sseqid"        "qstart"        "qend"  "sstart"        "send"
+Blast1:	"QOR57085.1"    "MT774400"      "Sib2_ms_1_64"  609     725     107     230
+Blast2:	"QOR57085.1"    "MT774400"      "Sib2_ms_1_64"  820     1204    205     588
+Blast3:	"QOR57085.1"    "MT774400"      "Sib2_ms_1_64"  1       298     1       228
+Blast4:	"Sib2_ms_1_63"  "Sib2_ms_1"     "QOR57086.1"    1       81      1       80
+Blast5:	"Sib2_ms_1_63"  "Sib2_ms_1"     "QOR57085.1"    118     253     134     298
+Blast6:	"Sib2_ms_1_63"  "Sib2_ms_1"     "QOR57085.1"    85      409     552     862	

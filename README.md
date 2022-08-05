@@ -1,7 +1,12 @@
 # Endproject
 The depository containing all the files for the paper "Patterns of diversity and conservation among structural proteins of crAss-like phages" containing code and files needed to reproduce the results and some of the results that couldn't be properly visualized in the paper.
 
-For the reproduction of the stats and graphs, please run the Rscript, the instructions will be in the comments within the file, at a certain point a python script will be required, but this is also noted in the annotations.
+For the reproduction of the stats and graphs, please run the Rscript, the instructions will be in the comments within the file, at a certain point a python script (nametry3.py) will be required, but this is also noted in the annotations.
+
+The alphafold results can be found in alphafold results
+
+Full versions of graphs that are hard to read in the paper can be found in fullgraphs
+
 
 Important notes:
 Versions for R script
